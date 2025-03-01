@@ -10,6 +10,6 @@
 
 📫 How to reach me:
 
-💼 LinkedIn: Your LinkedIn
+💼 LinkedIn: www.linkedin.com/in/dev-jphb
 
-📧 Email: Your Email
+📧 Email: joaopedrohbalbino@gmail.com 
