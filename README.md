@@ -2,7 +2,7 @@
 
 👀 I’m interested in Front-End, Back-End, and FullStack development
 
-🌱 I’m currently learning Python, HTML, and CSS, and soon diving into JavaScript and frameworks
+🌱 I’m currently learning Java, Python, HTML, and CSS, and soon diving into JavaScript and frameworks
 
 💻 I’m working on becoming a FullStack developer, mastering both Front-End and Back-End
 
