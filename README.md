@@ -1,15 +1,31 @@
-👋 Hi, I’m João Pedro
+<h1 align="left">Hey 👋 What's up?</h1>
 
-👀 I’m interested in Front-End, Back-End, and FullStack development
+###
 
-🌱 I’m currently learning Java, Python, HTML, and CSS, and soon diving into JavaScript and frameworks
+<p align="left">My name is João, and I'm Junior Backend developer  from Brazil</p>
 
-💻 I’m working on becoming a FullStack developer, mastering both Front-End and Back-End
+###
 
-💞️ I’m looking to collaborate on web development projects and small business websites
+<h2 align="left">About me</h2>
 
-📫 How to reach me:
+###
 
-💼 LinkedIn: www.linkedin.com/in/dev-jphb
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Python, Java, JavaScript, Node.js, SQL, and exploring APIs RESTful<br>🎯 Goals: Become a Backend developer and build awesome projects</p>
 
-📧 Email: joaopedrohbalbino@gmail.com 
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+</div>
+
+###
