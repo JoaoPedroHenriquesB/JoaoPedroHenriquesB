@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Coding since 2024<br>📚 I'm currently learning Python, Java, JavaScript, Node.js, SQL, and exploring APIs RESTful<br>🎯 Goals: Become a Backend developer and build awesome projects</p>
+<p align="left">✨ Coding since 2023<br>📚 I'm currently learning Python, Java, JavaScript, Node.js, SQL, and exploring APIs RESTful<br>🎯 Goals: Become a Backend developer and build awesome projects</p>
 
 ###
 
