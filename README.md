@@ -2,13 +2,17 @@
 
 ###
 
-<h4 align="left">✨ Coding since 2023<br>📚 I'm currently learning Python, Java, JavaScript, Node.js, SQL, and exploring APIs RESTful<br>🎯 Goals: Become a Backend developer and build awesome projects</h4>
+<h4 align="left">✨ Coding since 2023<br>📚 I'm currently learning Python, Java, JavaScript, Node.js, SQL, and exploring APIs RESTful<br>🎯 Goals: Become a Backend developer and build awesome projects<br>ㅤ</h4>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoPedroHenriquesB&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h1 align="center">I work with</h1>
 
 ###
 
@@ -28,6 +32,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="45" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma logo"  />
 </div>
 
 ###
@@ -37,10 +47,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/JoaoPedroHenriquesB/JoaoPedroHenriquesB/output/snake.svg" alt="Snake animation" />
 
 ###
 
