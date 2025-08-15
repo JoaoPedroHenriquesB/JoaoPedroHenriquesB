@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">💻 Desenvolvedor Backend Júnior apaixonado por resolver problemas e transformar ideias em código.<br>🎯 Iniciei minha jornada na programação em 2023 e, desde então, venho explorando diferentes tecnologias e construindo projetos que me desafiem.<br>🌍 Além do código, adoro aprender sobre arquitetura de software e boas práticas de desenvolvimento.</h4>
+<h4 align="left">💻 - Junior Backend Developer passionate about solving problems and turning ideas into code.<br>🎯 - I started my programming journey in 2023 and since then I've been exploring different technologies and building projects that challenge me.<br>🌍 - Besides coding, I love learning about software architecture and best development practices.</h4>
 
 ###
 
@@ -17,31 +17,31 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="66" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="55" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="66" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="55" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="66" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="55" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="66" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="55" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="66" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="55" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="66" alt="sqlite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="55" alt="sqlite logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="66" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="55" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="66" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="55" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="66" alt="intellij logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="55" alt="intellij logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="66" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="55" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="66" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="66" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="66" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="55" alt="javascript logo"  />
 </div>
 
 ###
@@ -61,20 +61,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JoaoPedroHenriquesB.JoaoPedroHenriquesB&"  />
-</div>
-
-###
-
-<h4 align="center">https://joaopedrohenriquesb.github.io/portfolio/</h4>
-
-###
-
 <h1 align="center"></h1>
 
 ###
 
-<h3 align="left">📬Quer trocar uma ideia ou colaborar em um projeto? Me chame no LinkedIn ou envie um e-mail para joaopedrohbalbino@gmail.com</h3>
+<h4 align="left">📬 - joaopedrohbalbino@gmail.com<br>📋 - https://joaopedrohenriquesb.github.io/portfolio/</h4>
 
 ###
