@@ -50,6 +50,6 @@
 
 ###
 
-<h4 align="left">📬 - mailto:joaopedrohbalbino@gmail.com<br>💼 - https://www.linkedin.com/in/joaopedrohb/<br>📋 - https://joaopedrohenriquesb.github.io/portfolio/</h4>
+<h4 align="left">📬 - joaopedrohbalbino@gmail.com<br>💼 - https://www.linkedin.com/in/joaopedrohb/<br>📋 - https://joaopedrohenriquesb.github.io/portfolio/</h4>
 
 ###
