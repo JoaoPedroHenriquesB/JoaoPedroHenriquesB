@@ -46,25 +46,10 @@
 
 ###
 
-<h1 align="center"></h1>
+<h1 align="center">contact me</h1>
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/joaopedrohb/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/29904681/jo%c3%a3o-pedro" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="60" height="40" alt="stackoverflow logo"  />
-  </a>
-</div>
-
-###
-
-<h1 align="center"></h1>
-
-###
-
-<h4 align="left">📬 - joaopedrohbalbino@gmail.com<br>📋 - https://joaopedrohenriquesb.github.io/portfolio/</h4>
+<h4 align="left">📬 - joaopedrohbalbino@gmail.com<br>💼 - https://www.linkedin.com/in/joaopedrohb/<br>📋 - https://joaopedrohenriquesb.github.io/portfolio/</h4>
 
 ###
