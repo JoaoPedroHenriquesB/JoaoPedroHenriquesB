@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is João Pedro and I'm a Junior Backend developer, from Brazil</h2>
+<h2 align="left">Hi 👋! My name is João Pedro and I'm a Backend developer, from Brazil</h2>
 
 ###
 
-<h4 align="left">💻 - Junior Backend Developer passionate about solving problems and turning ideas into code.<br>🎯 - I started my programming journey in 2023 and since then I've been exploring different technologies and building projects that challenge me.<br>🌍 - Besides coding, I love learning about software architecture and best development practices.</h4>
+<h4 align="left">💻 - Backend Developer passionate about solving problems and turning ideas into code.<br>🎯 - I started my programming journey in 2023 and since then I've been exploring different technologies and building projects that challenge me.<br>🌍 - Besides coding, I love learning about software architecture and best development practices.</h4>
 
 ###
 
