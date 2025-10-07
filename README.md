@@ -1,23 +1,2 @@
-<h1 align="center">Hello! My name is João Pedro and I'm a Data Analyst.</h1>
-
-###
-
-<p align="center">Currently, I'm developing projects focused on automation, dashboards, and data-driven decision making.</p>
-
-###
-
-<h2 align="center">I work with</h2>
-
-###
-
-<p align="center">Python<br><br>Pandas<br>NumPy<br>Matplotlib<br>Seaborn<br>Plotly<br>Scikit-learn<br>SciPy<br>Jupyter Notebook<br><br>MySQL<br>PostgreSQL<br>SQLite</p>
-
-###
-
-<h2 align="center">Contact me</h2>
-
-###
-
-<p align="left">📬 - joaopedrohbalbino@gmail.com<br>💼 - https://www.linkedin.com/in/joaopedrohb/<br>📋 - https://joaopedrohenriquesb.github.io/portfolio/</p>
-
-###
+💻 I work with
+<p align="center"> <!-- Linguagens --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50" alt="R"/> <!-- Bibliotecas --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50" alt="Matplotlib"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="50" height="50" alt="Scikit-Learn"/> <!-- Bancos de Dados --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50" alt="SQLite"/> <!-- Ferramentas de visualização (logos manuais que funcionam) --> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Power_bi_logo_black.svg" width="70" height="50" alt="Power BI"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="50" height="50" alt="Tableau"/> <!-- Extras --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/> </p>
