@@ -40,8 +40,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" alt="googlecloud logo"  />
   <img width="12" />
-  <img src="
-https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" height="50" alt="Excel Logo"  />
+  <img src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" height="50" alt="Excel Logo"  />
   <img width="12" />
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png" height="50" alt="PowerBi Logo"  />
   <img width="12" />
