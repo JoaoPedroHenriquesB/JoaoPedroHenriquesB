@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoPedroHenriquesB&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&hide=c%2B%2B" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoPedroHenriquesB&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&hide=c%2B%2B,c" height="150" alt="languages graph" />
 </div>
 
 ###
