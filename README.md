@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="center">Backend developer, passionate about Python, automation, and data analysis. I enjoy building efficient systems, experimenting with new technologies, and maintaining clean, scalable code. Currently working on projects involving APIs, workflow automation, and data-driven applications.</h3>
+<h3 align="center">I am currently working on backend projects, automations with Python, and data analysis.</h3>
 
 ###
 
