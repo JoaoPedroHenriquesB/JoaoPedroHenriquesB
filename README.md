@@ -12,6 +12,6 @@
 
 ###
 
-<h3 align="center">I am currently working on backend projects, automations with Python, and data analysis.</h3>
+<h3 align="center">Backend developer and technology enthusiast specializing in Python, automation, and data analysis..</h3>
 
 ###
