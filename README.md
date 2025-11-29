@@ -14,4 +14,10 @@
 
 <h3 align="center">Backend developer and technology enthusiast specializing in Python, automation, and data analysis..</h3>
 
+<div align="center">
+  <a href="www.linkedin.com/in/joaopedrohb" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
 ###
