@@ -12,9 +12,9 @@
 
 <h4 align="center">Backend developer and technology enthusiast specializing in Python, automation, and data analysis.</h4>
 
+<br>
 
-
-<h2 align="center">🛠️ My Tech Stack</h2>
+<h2 align="center">My Tech Stack</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -28,7 +28,7 @@
 
 
 
-<h2 align="center">📫 Connect With Me</h2>
+<h2 align="center">Connect With Me</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/joaopedrohb" target="_blank">
