@@ -6,13 +6,12 @@
   <img align="center" style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=30&descAlign=50&descAlignY=50&textBg=false&theme=cobalt" />
 </div>
 
----
+
 
 <h2 align="center">About Me</h2>
 
 <h4 align="center">Backend developer and technology enthusiast specializing in Python, automation, and data analysis.</h4>
 
----
 
 <h2 align="center">My Tech Stack</h2>
 
@@ -26,7 +25,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </div>
 
----
+
 
 <h2 align="center">Connect With Me</h2>
 
